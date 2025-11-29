@@ -19,4 +19,4 @@ npm start
 Features
 - User registration & login
 - Password hashing
-- JWT authentication
+- JWT & Cookie-based authentication
